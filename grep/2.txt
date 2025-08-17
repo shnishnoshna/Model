@@ -1,0 +1,6 @@
+cat > my_text_file.txtnet
+apple is a fruitty net
+banaas are hello yellow when ripe
+tY
+cherry are red and delicious^1
+^D123
